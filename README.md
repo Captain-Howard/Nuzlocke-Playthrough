@@ -10,5 +10,5 @@ If you want to use a specific emulator feel free to use [mGBA](https://github.co
 Lastly, the ROMs included in this repo should work for [RetroAchievments](https://retroachievements.org/) if you're wanting to set those up as well. 
 
 Have fun and may the RNG be ever in your favour lol
+
 ![Pokemon Starters](https://i0.wp.com/pokejungle.net/wp-content/uploads/2015/12/gen-3-starters.png)
- 
