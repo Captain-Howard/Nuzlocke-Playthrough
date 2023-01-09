@@ -8,9 +8,9 @@ I recommend using RetroArch first (you can find it in Steam, or the Play Store, 
 If you want to use a specific emulator feel free to use [mGBA](https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/mGBA-0.10.0-win64-installer.exe) (my personal favorite)
 
 Lastly, the ROMs included in this repo should work for [RetroAchievments](https://retroachievements.org/) if you're wanting to set those up as well. 
- - (Pokemon Ruby)[https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/Pokemon%20-%20Ruby%20Version%20(USA).gba]
- - (Pokemon Emerald)[https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/Pokemon%20-%20Emerald%20Version%20(USA%2C%20Europe).gba]
- - (Pokemon Sapphire)[https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/Pokemon%20-%20Sapphire%20Version%20(USA%2C%20Australia).gba]
+ - [Pokemon Ruby](https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/Pokemon%20-%20Ruby%20Version%20(USA).gba)
+ - [Pokemon Emerald](https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/Pokemon%20-%20Emerald%20Version%20(USA%2C%20Europe).gba)
+ - [Pokemon Sapphire](https://github.com/Captain-Howard/Nuzlocke-Playthrough/blob/main/Pokemon%20-%20Sapphire%20Version%20(USA%2C%20Australia).gba)
 Have fun and may the RNG be ever in your favour lol
 
 ![Pokemon Starters](https://i0.wp.com/pokejungle.net/wp-content/uploads/2015/12/gen-3-starters.png)
