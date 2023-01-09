@@ -1,5 +1,5 @@
 # Nuzlocke-Playthrough
-
+![alt text](http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/d98dde45d242734.png)
 ### Instructions
 Just a first note: Thank you to everyone wanting to play along in this Nuzlocke! Hopefully no one dies right away haha. I created this repo though in case you don't already have all of the required files.
 
